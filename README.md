@@ -10,35 +10,61 @@ This project is called Complete Advanced Bitcoin (BTC) Mining Platform using PHP
 
 
 # Frontend
+
 Cross browser optimised design
+
 Easy Signup/login
+
 Secure dashboard
+
 Sharing bitcoin
+
 Bitcoin mining
+
 Multiple deposit methods
+
 Account setting
+
 Withdrawal
+
 Kyc verification
+
 Transfer pin
 
 
 
 # Admin Panel Features
+
 Blog management
+
 Faq management
+
 Webpages management
+
 Interface control
+
 Social links
+
 Privacy policy
+
 Terms & conditions
+
 Mining management
+
 Withdrawal management
+
 Email settings
+
 SMS settings
+
 Basic settings
+
 Messages
+
 User management
+
 Transfer & referral management
+
 Deposit management
 
 
